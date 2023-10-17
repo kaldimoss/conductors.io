@@ -86,7 +86,7 @@
       grid-template-columns: 1fr 10fr 1fr ;
       position: relative;
       padding: 5vw;
-      text-align: center;
+      text-align: left;
       z-index: 100;
   }
 
